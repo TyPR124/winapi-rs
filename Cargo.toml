@@ -1,5 +1,5 @@
 [package]
-name = "__winapi_forked_icmpapi"
+name = "winapi_forked_icmpapi"
 version = "0.3.7"
 authors = ["Peter Atashian <retep998@gmail.com>"]
 license = "MIT/Apache-2.0"
